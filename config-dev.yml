@@ -1,2 +1,8 @@
 config:
     info: master branch,springcloud-config/config-dev.yml version=6
+spring:
+    rabbitmq:
+    host: 172.16.1.103
+    port: 5672
+    username: guest
+    password: guest
