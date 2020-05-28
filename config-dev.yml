@@ -1,5 +1,5 @@
 config:
-    info: master branch,springcloud-config/config-dev.yml version=6
+    info: master branch,springcloud-config/config-dev.yml version=7
 spring:
     rabbitmq:
         host: 172.16.1.103
